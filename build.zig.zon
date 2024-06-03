@@ -1,0 +1,5 @@
+.{
+    .name = "known-folders",
+    .version = "0.0.0",
+    .paths = .{"."},
+}
